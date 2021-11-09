@@ -7,7 +7,7 @@ LQX node AMI app.
 #### Setup
 
 1. Install `ami` if not installed already
-    * `wget https://raw.githubusercontent.com/cryon-io/ami/master/install.sh -O /tmp/install.sh && sh /tmp/install.sh`
+    * `wget https://raw.githubusercontent.com/alis-is/ami/master/install.sh -O /tmp/install.sh && sh /tmp/install.sh`
 2. Create directory for your application (it should not be part of user home folder structure, you can use for example `/mns/lqx1`)
 3. Create `app.json` or `app.hjson` with app configuration you like, e.g.:
 ```json

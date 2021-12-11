@@ -1,8 +1,7 @@
 {
     "id": "lqx.node" ,
-    "version" : "0.0.1",
+    "version" : "0.1.0",
     "dependencies": [
-        { "id":"btc.base" },
-        { "id": "lqx.binaries"}
+        { "id":"btc.base" }
     ]
 }
